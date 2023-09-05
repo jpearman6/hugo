@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rock-Paper-Scissors API</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Rock-Paper-Scissors API</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rock-Paper-Scissors API Documentation</title>
+      <link>https://example.org/sample/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sample/</guid>
+      <description>Introduction#Welcome to the documentation for the Rock-Paper-Scissors game API. This API allows you to play against the computer and track the score.
+How to Play#Use the /play endpoint to play a round. Check the /score endpoint to see the current score. If you wish to restart the game, send a request to the /restart endpoint. Enjoy the game!
+Endpoints#POST /play#Play a round of Rock-Paper-Scissors.</description>
+    </item>
+    
+  </channel>
+</rss>
